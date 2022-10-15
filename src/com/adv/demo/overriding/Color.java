@@ -5,4 +5,5 @@ public class Color {
 	public String color() {
 		return "white";
 	}
+	
 }
